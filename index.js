@@ -151,7 +151,7 @@ async function startnigg(phone) {
           await negga.sendMessage(
             negga.user.id,
             {
-              text: '*Trex-Md Connected Successfully*\n\n*Bera*\nhttps://wa.me/254740007567\n\n*Whatsapp Channel*\nhttps://whatsapp.com/channel/0029Vajvy2kEwEjwAKP4SI0x\n\n*Deployment Tutorials*\nhttps://youtube.com/@wemacomic?si=scvCGDtmbfyIjX-O',
+              text: '*Trex-Md Connected Successfully*\n\n*Bera*\nhttps://wa.me/254743982206\n\n*Whatsapp Channel*\nhttps://whatsapp.com/channel/0029Vajvy2kEwEjwAKP4SI0x\n\n*Deployment Tutorials*\nhttps://youtube.com/@wemacomic?si=scvCGDtmbfyIjX-O',
             },
             { quoted: guru }
           )
